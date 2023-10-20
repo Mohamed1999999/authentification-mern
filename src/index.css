@@ -1,0 +1,10 @@
+.App{
+  background-color: #dbd5d5;
+  height: 100VH;
+}
+
+.inscription{
+  justify-content: center;
+  align-items: center;
+  margin-left: 4;
+}
